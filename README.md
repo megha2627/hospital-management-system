@@ -1,4 +1,5 @@
-# 🏥 Hospital Management System
+# 🏥💻 **Hospital Management System** 🏨👩‍⚕️👨‍⚕️🩺🌟
+
 
 A full-fledged **Hospital Management System** built with modern technologies, designed to simplify the management of hospital operations, including patient management, staff management, and more.
 
